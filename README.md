@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlgoStorm
 - 👀 I’m interested in offensive security, cloud engineering, and  machine learning
-- 🌱 I’m currently learning linux, python and bash
+- 🌱 I’m currently learning AWS, linux, Python and Bash
 - 💞️ I’m looking to collaborate on cloud security projects
 
 <!---
