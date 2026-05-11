@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlgoStorm
-- 👀 I’m interested in offensive security, cloud engineering, and  machine learning
+- 👀 I’m interested in Network Automation, Cloud engineering, and  Machine learning
 - 🌱 I’m currently learning AWS, linux, Python and Bash
 - 💞️ I’m looking to collaborate on cloud security projects
 
